@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "my-app": {
+      "type": "http",
+      "url": "https://localhost-8dbcb858.deco.host/mcp"
+    }
+  }
+}
